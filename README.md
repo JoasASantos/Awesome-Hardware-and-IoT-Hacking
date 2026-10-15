@@ -53,6 +53,7 @@ https://drive.google.com/drive/u/0/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU
 	- dumpflash - Low-level NAND Flash dump and parsing utility.
 	- flashrom - Tool for detecting, reading, writing, verifying and erasing flash chips.
 	- Samsung Firmware Magic - Decrypt Samsung SSD firmware updates.
+	- [usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Infers USB device protocols from labelled usbmon/USBPcap captures (values, lookup tables, counters, CRCs) and generates Python drivers.
 
 ### Hardware Tools
 
