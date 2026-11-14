@@ -255,6 +255,8 @@ https://drive.google.com/drive/u/0/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU
 - IoTSecurity101 Reddit - https://www.reddit.com/r/IoTSecurity101/
 - IoTSecurity101 Discord - https://discord.gg/EH9dxT9
 - hardware hacking Telegram - https://t.me/hardwareHackingBrasil
+- Hardware Hacking Spain Telegram (Spanish) - https://t.me/hardwarehackingspain
+- Hardware Hacking ES Discord (Spanish) - https://discord.gg/wkWr6Dj46D
 - NForceIT Telegram - https://t.me/joinchat/JAMxOg5YzdkGjcF3HmNgQw
 - RFID Discord group - https://discord.gg/Z43TrcVyPr
 - ICS Discord group - https://discord.com/invite/CmDDsFK
